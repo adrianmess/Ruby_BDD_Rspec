@@ -1,3 +1,3 @@
 def title_case(title)
-    # eventually put code here
+    title.capitalize!
 end
